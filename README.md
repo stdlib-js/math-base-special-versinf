@@ -58,7 +58,7 @@ The [versed sine][versed-sine] is defined as
 ## Usage
 
 ```javascript
-import versinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-versinf@deno/mod.js';
+import versinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-versinf@v0.1.0-deno/mod.js';
 ```
 
 #### versinf( x )
@@ -90,7 +90,7 @@ v = versinf( -3.141592653589793/6.0 );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import TWO_PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-two-pi@deno/mod.js';
-import versinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-versinf@deno/mod.js';
+import versinf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-versinf@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
